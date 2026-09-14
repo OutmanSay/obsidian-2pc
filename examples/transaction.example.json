@@ -1,0 +1,12 @@
+{
+  "id": "TX-EXAMPLE-001",
+  "source_file": "inbox/2026-09-14-quick-note.md",
+  "summary": "Connect quick note to core architecture wiki",
+  "actions": [
+    {
+      "type": "append",
+      "target_file": "wiki/architecture.md",
+      "append_content": "\n- 2026-09-14 Synthesis: [[2026-09-14-quick-note|Two-Phase Commit in Personal Knowledge Management]].\n"
+    }
+  ]
+}
