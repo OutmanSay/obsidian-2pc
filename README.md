@@ -1,4 +1,6 @@
-# Obsidian-2PC: Deterministic Two-Phase Knowledge Ingestion for AI Agents
+# 🧠 AI Agent Skill: obsidian-2pc
+
+**Obsidian-2PC: Deterministic Two-Phase Knowledge Ingestion for AI Agents**
 
 > **Stop AI from polluting your Obsidian vault.**  
 > Zero-friction capture during fast conversations, strict deterministic validation before writing to your core Wiki.
